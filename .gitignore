@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+.idea/
+
+a3_part11.ipynb
+test.py
+
+keyboard*.jpg
+*.zip
